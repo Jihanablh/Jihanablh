@@ -289,7 +289,6 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-```md
 ## Currently Learning
 
 <p align="center">
@@ -455,4 +454,3 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 <p align="center">
   <b>My goal is to grow as an analyst who can connect data, business problems, and practical solutions.</b>
 </p>
-```
