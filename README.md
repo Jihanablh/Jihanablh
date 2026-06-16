@@ -30,7 +30,7 @@ Hi, I'm **Jihan Nabilah Rahman**, an **Information Systems student** who enjoys 
 
 I’m interested in:
 
-- Data Analytics & Business Intelligence  
+- Data Analytics & Business Analytics  
 - UI/UX Design  
 - Web Development  
 - WebGIS & Spatial Analysis  
@@ -41,23 +41,75 @@ I love working on projects that are not only functional, but also clean, structu
 
 ---
 
-## Tech Stack
+## Tools & Applications I Use
 
 <p align="center">
+  <b>Data Analytics & Business Intelligence</b>
+</p>
 
-<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-14B8A6?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-14B8A6?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-2563EB?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-14B8A6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/QGIS-14B8A6?style=for-the-badge&logo=qgis&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-14B8A6?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-14B8A6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-2563EB?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-2563EB?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
+<br>
+
+<p align="center">
+  <b>UI/UX Design & Prototyping</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-14B8A6?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-2563EB?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whimsical-14B8A6?style=for-the-badge&logo=whimsical&logoColor=white" />
+  <img src="https://img.shields.io/badge/draw.io-2563EB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Web Development</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-14B8A6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-14B8A6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-14B8A6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>WebGIS & Spatial Analysis</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-14B8A6?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoJSON-2563EB?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-14B8A6?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-2563EB?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Development Tools</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-14B8A6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2563EB?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-14B8A6?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -249,11 +301,68 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## Currently Learning
+## Currently Learning: Skill Quest
 
-```txt
-Data Analytics        █████████░░░  75%
-UI/UX Design          ████████░░░░  70%
-Web Development       ███████░░░░░  65%
-WebGIS                ████████░░░░  70%
-System Analysis       █████████░░░  80%
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Level-Information%20Systems%20Student-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mission-Building%20Better%20Digital%20Products-14B8A6?style=for-the-badge" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <h3>📊 Data Analytics</h3>
+      <p>Cleaning, analyzing, and visualizing data.</p>
+      <code>█████████░░░ 75%</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-14B8A6?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-2563EB?style=flat-square&logo=powerbi&logoColor=white" />
+    </td>
+    <td align="center" width="250">
+      <h3>🎨 UI/UX Design</h3>
+      <p>Creating clean flows and user-friendly interfaces.</p>
+      <code>████████░░░░ 70%</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/Figma-14B8A6?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-2563EB?style=flat-square&logo=canva&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="250">
+      <h3>💻 Web Development</h3>
+      <p>Building responsive and modern websites.</p>
+      <code>███████░░░░░ 65%</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-14B8A6?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-14B8A6?style=flat-square&logo=javascript&logoColor=white" />
+    </td>
+    <td align="center" width="250">
+      <h3>🗺️ WebGIS</h3>
+      <p>Working with maps, GeoJSON, and spatial analysis.</p>
+      <code>████████░░░░ 70%</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/QGIS-2563EB?style=flat-square&logo=qgis&logoColor=white" />
+      <img src="https://img.shields.io/badge/GeoJSON-14B8A6?style=flat-square&logo=json&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<details>
+<summary>🧩 Open My Learning Roadmap</summary>
+
+<br>
+
+| Level | Learning Area | Status | Target |
+|---|---|---|---|
+| 01 | Data Cleaning & Analysis | In Progress | Build more case studies |
+| 02 | Dashboard Design | In Progress | Improve storytelling |
+| 03 | UI/UX Portfolio | In Progress | Create polished prototypes |
+| 04 | WebGIS Project | In Progress | Add stronger spatial analysis |
+| 05 | System Analysis | In Progress | Improve documentation & diagrams |
+
+</details>
