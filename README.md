@@ -353,7 +353,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 ---
 
 <details>
-<summary>🧩 Open My Learning Roadmap</summary>
+<summary>Open My Learning Roadmap</summary>
 
 <br>
 
