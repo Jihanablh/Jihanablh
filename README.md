@@ -450,63 +450,11 @@ Documentation and analysis projects focused on process mapping, requirements, an
 
 <br>
 
-
-## GitHub Analytics
-
-<p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=Jihanablh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=14B8A6&icon_color=2563EB&text_color=ffffff" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihanablh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=14B8A6&text_color=ffffff" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Jihanablh&theme=tokyonight&hide_border=true&background=00000000&ring=14B8A6&fire=2563EB&currStreakLabel=14B8A6" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jihanablh&theme=tokyo-night&hide_border=true&bg_color=00000000&color=14B8A6&line=2563EB&point=14B8A6" 
-    alt="Contribution Activity Graph" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jihanablh&theme=tokyonight" 
-    alt="Profile Details Card" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="32%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jihanablh&theme=tokyonight" 
-    alt="Repos Per Language" 
-  />
-  <img 
-    width="32%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jihanablh&theme=tokyonight" 
-    alt="Most Commit Language" 
-  />
-  <img 
-    width="32%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jihanablh&theme=tokyonight&utcOffset=7" 
-    alt="Productive Time" 
-  />
-</p>
-
-<br>
-
+<img 
+  width="32%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jihanablh&theme=tokyonight&utcOffset=7" 
+  alt="Productive Time" 
+/>
 
 ## Achievement Board
 
