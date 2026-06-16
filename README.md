@@ -301,68 +301,138 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## Currently Learning: Skill Quest
+````md
+## Currently Learning: Data & Business Analyst Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Level-Information%20Systems%20Student-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mission-Building%20Better%20Digital%20Products-14B8A6?style=for-the-badge" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2300&pause=700&color=14B8A6&center=true&vCenter=true&width=850&lines=Learning+to+turn+raw+data+into+business+insights;Building+dashboards+that+support+better+decisions;Exploring+business+process%2C+data+storytelling%2C+and+analytics;Growing+as+a+Data+Analyst+%26+Business+Analyst" 
+    alt="Data and Business Analyst Learning Animation" 
+  />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Second%20Focus-Business%20Analyst-14B8A6?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Insight%20Driven%20Decision-2563EB?style=for-the-badge" />
+</p>
+
+<br>
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <h3>📊 Data Analytics</h3>
-      <p>Cleaning, analyzing, and visualizing data.</p>
-      <code>█████████░░░ 75%</code>
+    <td align="center" width="33%">
+      <h3> Data Analysis</h3>
+      <p>Cleaning, exploring, and analyzing data to find meaningful patterns.</p>
+      <img src="https://img.shields.io/badge/Progress-80%25-14B8A6?style=for-the-badge" />
       <br><br>
-      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-14B8A6?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20BI-2563EB?style=flat-square&logo=powerbi&logoColor=white" />
+      <code>Python</code> · <code>SQL</code> · <code>Pandas</code> · <code>Excel</code>
     </td>
-    <td align="center" width="250">
-      <h3>🎨 UI/UX Design</h3>
-      <p>Creating clean flows and user-friendly interfaces.</p>
-      <code>████████░░░░ 70%</code>
+    <td align="center" width="33%">
+      <h3> Dashboard & Visualization</h3>
+      <p>Creating clear dashboards to communicate insights visually.</p>
+      <img src="https://img.shields.io/badge/Progress-75%25-2563EB?style=for-the-badge" />
       <br><br>
-      <img src="https://img.shields.io/badge/Figma-14B8A6?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-2563EB?style=flat-square&logo=canva&logoColor=white" />
+      <code>Power BI</code> · <code>Tableau</code> · <code>Excel</code>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="250">
-      <h3>💻 Web Development</h3>
-      <p>Building responsive and modern websites.</p>
-      <code>███████░░░░░ 65%</code>
+    <td align="center" width="33%">
+      <h3> Business Analysis</h3>
+      <p>Understanding business problems, user needs, and process improvement.</p>
+      <img src="https://img.shields.io/badge/Progress-78%25-14B8A6?style=for-the-badge" />
       <br><br>
-      <img src="https://img.shields.io/badge/HTML5-14B8A6?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-14B8A6?style=flat-square&logo=javascript&logoColor=white" />
-    </td>
-    <td align="center" width="250">
-      <h3>🗺️ WebGIS</h3>
-      <p>Working with maps, GeoJSON, and spatial analysis.</p>
-      <code>████████░░░░ 70%</code>
-      <br><br>
-      <img src="https://img.shields.io/badge/QGIS-2563EB?style=flat-square&logo=qgis&logoColor=white" />
-      <img src="https://img.shields.io/badge/GeoJSON-14B8A6?style=flat-square&logo=json&logoColor=white" />
+      <code>BRD</code> · <code>Flowchart</code> · <code>ERD</code> · <code>BPMN</code>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<details>
-<summary>Open My Learning Roadmap</summary>
+## Current Skill Quest
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2001-Data%20Cleaning-2563EB?style=for-the-badge" />
+      <br><br>
+      Handling missing values, duplicates, and inconsistent data.
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2002-SQL%20Analysis-14B8A6?style=for-the-badge" />
+      <br><br>
+      Querying data, joining tables, and building analysis logic.
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2003-Dashboarding-2563EB?style=for-the-badge" />
+      <br><br>
+      Designing dashboards that are clean, useful, and easy to read.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2004-Data%20Storytelling-14B8A6?style=for-the-badge" />
+      <br><br>
+      Turning insights into clear business recommendations.
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2005-Business%20Process-2563EB?style=for-the-badge" />
+      <br><br>
+      Mapping workflows, identifying problems, and improving processes.
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Quest%2006-Case%20Study-14B8A6?style=for-the-badge" />
+      <br><br>
+      Building portfolio projects based on real business cases.
+    </td>
+  </tr>
+</table>
 
 <br>
 
-| Level | Learning Area | Status | Target |
-|---|---|---|---|
-| 01 | Data Cleaning & Analysis | In Progress | Build more case studies |
-| 02 | Dashboard Design | In Progress | Improve storytelling |
-| 03 | UI/UX Portfolio | In Progress | Create polished prototypes |
-| 04 | WebGIS Project | In Progress | Add stronger spatial analysis |
-| 05 | System Analysis | In Progress | Improve documentation & diagrams |
+## Analyst Roadmap
+
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[Data Cleaning]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Dashboard & Visualization]
+    D --> E[Business Insight]
+    E --> F[Recommendation]
+    F --> G[Decision Making]
+
+    H[Business Problem] --> I[Requirement Analysis]
+    I --> J[Process Mapping]
+    J --> K[System / Data Needs]
+    K --> E
+````
+
+<br>
+
+<details>
+<summary> Open My Analyst Growth Plan</summary>
+
+<br>
+
+| Area                 | What I'm Improving                    | Tools / Methods                       | Goal                                       |
+| -------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------------ |
+| Data Cleaning        | Preparing messy datasets              | Python, Pandas, Excel                 | Build cleaner analysis results             |
+| SQL Analysis         | Querying and joining data             | MySQL, SQL logic                      | Answer business questions with data        |
+| Dashboarding         | Creating visual reports               | Power BI, Tableau, Excel              | Make insights easier to understand         |
+| Data Storytelling    | Explaining findings clearly           | Insight writing, chart interpretation | Turn analysis into recommendations         |
+| Business Analysis    | Understanding user and business needs | BRD, flowchart, ERD, BPMN             | Improve business process and system design |
+| Portfolio Case Study | Building real project documentation   | GitHub, README, dashboard, report     | Create stronger internship-ready portfolio |
 
 </details>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:14B8A6&height=3&section=footer" 
+    alt="Gradient Line" 
+  />
+</p>
+
+<p align="center">
+  <b>“My goal is not only to analyze data, but to understand the business story behind it.”</b>
+</p>
+```
