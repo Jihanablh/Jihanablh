@@ -221,13 +221,18 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## GitHub Trophies
+## Achievement Board
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Jihanablh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://img.shields.io/badge/Data%20Explorer-Python%20%7C%20SQL%20%7C%20Pandas-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Builder-Figma%20%7C%20Prototype-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebGIS%20Creator-QGIS%20%7C%20GeoJSON-2563EB?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Analyst-ERD%20%7C%20Flow%20%7C%20Database-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Builder-Digital%20Portfolio-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20Mode-Always%20Improving-14B8A6?style=for-the-badge" />
 </p>
 
 ---
