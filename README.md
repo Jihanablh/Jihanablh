@@ -289,20 +289,8 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## Contribution Snake Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jihanablh/Jihanablh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jihanablh/Jihanablh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jihanablh/Jihanablh/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ````md
-## Currently Learning: Data & Business Analyst Journey
+## 📈 Currently Learning: Data & Business Analyst Journey
 
 <p align="center">
   <img 
@@ -322,21 +310,21 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3> Data Analysis</h3>
+      <h3>📊 Data Analysis</h3>
       <p>Cleaning, exploring, and analyzing data to find meaningful patterns.</p>
       <img src="https://img.shields.io/badge/Progress-80%25-14B8A6?style=for-the-badge" />
       <br><br>
       <code>Python</code> · <code>SQL</code> · <code>Pandas</code> · <code>Excel</code>
     </td>
     <td align="center" width="33%">
-      <h3> Dashboard & Visualization</h3>
+      <h3>📉 Dashboard & Visualization</h3>
       <p>Creating clear dashboards to communicate insights visually.</p>
       <img src="https://img.shields.io/badge/Progress-75%25-2563EB?style=for-the-badge" />
       <br><br>
       <code>Power BI</code> · <code>Tableau</code> · <code>Excel</code>
     </td>
     <td align="center" width="33%">
-      <h3> Business Analysis</h3>
+      <h3>🧠 Business Analysis</h3>
       <p>Understanding business problems, user needs, and process improvement.</p>
       <img src="https://img.shields.io/badge/Progress-78%25-14B8A6?style=for-the-badge" />
       <br><br>
@@ -347,7 +335,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 <br>
 
-## Current Skill Quest
+## 🎯 Current Skill Quest
 
 <table align="center">
   <tr>
@@ -388,7 +376,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 <br>
 
-## Analyst Roadmap
+## 🧩 Analyst Roadmap
 
 ```mermaid
 flowchart LR
@@ -408,7 +396,7 @@ flowchart LR
 <br>
 
 <details>
-<summary> Open My Analyst Growth Plan</summary>
+<summary>🚀 Open My Analyst Growth Plan</summary>
 
 <br>
 
