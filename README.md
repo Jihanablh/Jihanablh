@@ -289,20 +289,20 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-````md
-## 📈 Currently Learning: Data & Business Analyst Journey
+```md
+## Currently Learning
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2300&pause=700&color=14B8A6&center=true&vCenter=true&width=850&lines=Learning+to+turn+raw+data+into+business+insights;Building+dashboards+that+support+better+decisions;Exploring+business+process%2C+data+storytelling%2C+and+analytics;Growing+as+a+Data+Analyst+%26+Business+Analyst" 
-    alt="Data and Business Analyst Learning Animation" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2300&pause=700&color=14B8A6&center=true&vCenter=true&width=900&lines=Learning+Data+Analytics+and+Business+Analysis;Turning+raw+data+into+clear+business+insights;Building+dashboards+for+better+decision+making;Improving+business+process+and+analytical+thinking" 
+    alt="Currently Learning Animation" 
   />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Second%20Focus-Business%20Analyst-14B8A6?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-Insight%20Driven%20Decision-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Second%20Focus-Business%20Analyst-14B8A6?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Career%20Goal-Insight%20Driven%20Analyst-2563EB?style=for-the-badge" />
 </p>
 
 <br>
@@ -310,104 +310,136 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>📊 Data Analysis</h3>
-      <p>Cleaning, exploring, and analyzing data to find meaningful patterns.</p>
+      <h3>Data Analysis</h3>
+      <p>Cleaning, exploring, and analyzing data to discover useful patterns and insights.</p>
       <img src="https://img.shields.io/badge/Progress-80%25-14B8A6?style=for-the-badge" />
       <br><br>
-      <code>Python</code> · <code>SQL</code> · <code>Pandas</code> · <code>Excel</code>
+      <code>Python</code>
+      <code>SQL</code>
+      <code>Pandas</code>
+      <code>Excel</code>
     </td>
     <td align="center" width="33%">
-      <h3>📉 Dashboard & Visualization</h3>
-      <p>Creating clear dashboards to communicate insights visually.</p>
+      <h3>Dashboard and Visualization</h3>
+      <p>Creating clear dashboards to help users understand data and support decisions.</p>
       <img src="https://img.shields.io/badge/Progress-75%25-2563EB?style=for-the-badge" />
       <br><br>
-      <code>Power BI</code> · <code>Tableau</code> · <code>Excel</code>
+      <code>Power BI</code>
+      <code>Tableau</code>
+      <code>Excel</code>
+      <code>Looker Studio</code>
     </td>
     <td align="center" width="33%">
-      <h3>🧠 Business Analysis</h3>
-      <p>Understanding business problems, user needs, and process improvement.</p>
+      <h3>Business Analysis</h3>
+      <p>Understanding business needs, process flows, and system requirements.</p>
       <img src="https://img.shields.io/badge/Progress-78%25-14B8A6?style=for-the-badge" />
       <br><br>
-      <code>BRD</code> · <code>Flowchart</code> · <code>ERD</code> · <code>BPMN</code>
+      <code>BRD</code>
+      <code>Flowchart</code>
+      <code>ERD</code>
+      <code>BPMN</code>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🎯 Current Skill Quest
+## Analyst Skill Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Analysis-Intermediate-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboarding-Intermediate-2563EB?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Improving-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Process-Intermediate-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Requirement%20Analysis-Improving-14B8A6?style=for-the-badge" />
+</p>
+
+<br>
+
+## Learning Roadmap
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2001-Data%20Cleaning-2563EB?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 01</b>
+      <br>
+      Data Cleaning
       <br><br>
-      Handling missing values, duplicates, and inconsistent data.
+      Preparing data by handling missing values, duplicates, and inconsistent formats.
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2002-SQL%20Analysis-14B8A6?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 02</b>
+      <br>
+      Exploratory Analysis
       <br><br>
-      Querying data, joining tables, and building analysis logic.
+      Finding trends, patterns, and relationships from datasets.
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2003-Dashboarding-2563EB?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 03</b>
+      <br>
+      Dashboard Design
       <br><br>
-      Designing dashboards that are clean, useful, and easy to read.
+      Building visual reports using charts, filters, and key metrics.
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2004-Data%20Storytelling-14B8A6?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 04</b>
+      <br>
+      Business Insight
       <br><br>
-      Turning insights into clear business recommendations.
+      Translating analysis results into useful business findings.
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2005-Business%20Process-2563EB?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 05</b>
+      <br>
+      Process Analysis
       <br><br>
-      Mapping workflows, identifying problems, and improving processes.
+      Understanding workflows, problems, and improvement opportunities.
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Quest%2006-Case%20Study-14B8A6?style=for-the-badge" />
+    <td align="center" width="200">
+      <b>Stage 06</b>
+      <br>
+      Recommendation
       <br><br>
-      Building portfolio projects based on real business cases.
+      Creating clear recommendations based on data and business needs.
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🧩 Analyst Roadmap
-
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Data Cleaning]
-    B --> C[Exploratory Data Analysis]
-    C --> D[Dashboard & Visualization]
-    D --> E[Business Insight]
-    E --> F[Recommendation]
-    F --> G[Decision Making]
-
-    H[Business Problem] --> I[Requirement Analysis]
-    I --> J[Process Mapping]
-    J --> K[System / Data Needs]
-    K --> E
-````
-
-<br>
+## Current Analyst Mission
 
 <details>
-<summary>🚀 Open My Analyst Growth Plan</summary>
+<summary>Open my Data Analyst learning focus</summary>
 
 <br>
 
-| Area                 | What I'm Improving                    | Tools / Methods                       | Goal                                       |
-| -------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------------ |
-| Data Cleaning        | Preparing messy datasets              | Python, Pandas, Excel                 | Build cleaner analysis results             |
-| SQL Analysis         | Querying and joining data             | MySQL, SQL logic                      | Answer business questions with data        |
-| Dashboarding         | Creating visual reports               | Power BI, Tableau, Excel              | Make insights easier to understand         |
-| Data Storytelling    | Explaining findings clearly           | Insight writing, chart interpretation | Turn analysis into recommendations         |
-| Business Analysis    | Understanding user and business needs | BRD, flowchart, ERD, BPMN             | Improve business process and system design |
-| Portfolio Case Study | Building real project documentation   | GitHub, README, dashboard, report     | Create stronger internship-ready portfolio |
+| Focus Area | What I am Improving | Tools |
+|---|---|---|
+| Data Cleaning | Handling missing values, duplicates, and inconsistent data | Python, Pandas, Excel |
+| Data Analysis | Exploring data and finding patterns | Python, SQL, Pandas |
+| Dashboarding | Creating visual reports and business dashboards | Power BI, Tableau, Excel |
+| Data Storytelling | Explaining insights in a clear and useful way | Charts, summary, business recommendation |
+
+</details>
+
+<details>
+<summary>Open my Business Analyst learning focus</summary>
+
+<br>
+
+| Focus Area | What I am Improving | Methods |
+|---|---|---|
+| Business Process | Understanding how a business workflow runs | Flowchart, BPMN |
+| Requirement Analysis | Identifying user needs and system requirements | BRD, user story, use case |
+| System Design | Connecting business needs with system structure | ERD, process flow, documentation |
+| Problem Solving | Turning business problems into clear solutions | Analysis, recommendation, prioritization |
 
 </details>
 
@@ -415,12 +447,12 @@ flowchart LR
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:14B8A6&height=3&section=footer" 
-    alt="Gradient Line" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:14B8A6&height=4&section=footer" 
+    alt="Gradient Divider" 
   />
 </p>
 
 <p align="center">
-  <b>“My goal is not only to analyze data, but to understand the business story behind it.”</b>
+  <b>My goal is to grow as an analyst who can connect data, business problems, and practical solutions.</b>
 </p>
 ```
