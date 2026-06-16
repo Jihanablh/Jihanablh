@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Hi, I'm **Jihan Nabilah Rahman**, an **Information Systems student** who enjoys building useful digital products by combining **data, design, and technology**.
 
@@ -41,7 +41,7 @@ I love working on projects that are not only functional, but also clean, structu
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -62,10 +62,10 @@ I love working on projects that are not only functional, but also clean, structu
 
 ---
 
-## 🎮 Mini Game: Choose My Developer Quest
+## Mini Game: Choose My Developer Quest
 
 <details>
-<summary>🧩 Level 1 — Data Analyst Quest</summary>
+<summary>Level 1 — Data Analyst Quest</summary>
 
 You opened the **Data Analyst Quest**.
 
@@ -83,7 +83,7 @@ Achievement unlocked: **Insight Hunter**
 </details>
 
 <details>
-<summary>🎨 Level 2 — UI/UX Quest</summary>
+<summary>Level 2 — UI/UX Quest</summary>
 
 You opened the **UI/UX Quest**.
 
@@ -101,7 +101,7 @@ Achievement unlocked: **Pixel Strategist**
 </details>
 
 <details>
-<summary>🗺️ Level 3 — WebGIS Quest</summary>
+<summary>Level 3 — WebGIS Quest</summary>
 
 You opened the **WebGIS Quest**.
 
@@ -119,7 +119,7 @@ Achievement unlocked: **Map Explorer**
 </details>
 
 <details>
-<summary>🚀 Final Boss — Digital Product Builder</summary>
+<summary>Final Boss — Digital Product Builder</summary>
 
 You reached the final stage.
 
@@ -135,13 +135,13 @@ Achievement unlocked: **Product Builder**
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🗺️ Jogja Siaga — WebGIS
+### Jogja Siaga — WebGIS
 
 A WebGIS project for disaster information, regional risk, statistics, and spatial analysis in Yogyakarta.
 
@@ -158,7 +158,7 @@ A WebGIS project for disaster information, regional risk, statistics, and spatia
 </td>
 <td width="50%">
 
-### 🛒 BarangBareng — Rental Marketplace
+### BarangBareng — Rental Marketplace
 
 A digital marketplace concept for renting items, designed for students and general users.
 
@@ -172,7 +172,7 @@ A digital marketplace concept for renting items, designed for students and gener
 <tr>
 <td width="50%">
 
-### 📊 Data Analytics Portfolio
+### Data Analytics Portfolio
 
 Data projects focused on cleaning, analyzing, visualizing, and presenting insights from datasets.
 
@@ -183,7 +183,7 @@ Data projects focused on cleaning, analyzing, visualizing, and presenting insigh
 </td>
 <td width="50%">
 
-### 🎨 UI/UX Portfolio
+### UI/UX Portfolio
 
 UI/UX design exploration for landing pages, dashboards, and digital product interfaces.
 
@@ -197,7 +197,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -221,7 +221,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img 
@@ -232,7 +232,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## 🐍 Contribution Snake Game
+## Contribution Snake Game
 
 <p align="center">
   <picture>
@@ -244,7 +244,7 @@ UI/UX design exploration for landing pages, dashboards, and digital product inte
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 ```txt
 Data Analytics        █████████░░░  75%
